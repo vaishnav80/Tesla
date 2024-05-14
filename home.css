@@ -1,0 +1,82 @@
+body{
+  top: 0;
+}
+.div1{
+    
+    
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    /* background-image: url('Tesla1.avif'); */
+    
+}
+.d2{
+  margin: auto;
+}
+.span1{
+    font-size: 18px;
+    padding-left: 20px;
+    cursor: pointer;
+
+}
+
+i{  margin-top: 28px;
+    font-size: 18px;
+    padding-left: 20px;
+    float: right  ;
+}
+.overlay {
+  height: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  margin-top: 45px;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: white;
+  overflow-y: hidden;
+  transition: 0.4s;
+  display: flex;
+}
+.img2_1{
+  height: 100px;
+  width : 180px;
+}
+.ul1{
+  padding-top: 10px;
+  margin-top: 40px;
+  list-style-type: none;
+  font-family: d;
+}
+li{
+  padding-top: 10px;
+}
+.headerdiv{
+  /* margin-bottom: 10px;
+   */
+   padding-bottom: 10px;
+}
+.a1{
+  font-size: 15px;
+}
+button{
+  border: 0px;
+  border-radius: 3px;
+  height: 40px;
+  width: 250px;
+  margin: 0px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+.buttondiv{
+  width: 1408px;
+  height: 100px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 280px;
+  
+}
